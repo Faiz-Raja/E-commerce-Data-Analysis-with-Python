@@ -43,7 +43,7 @@ This project applies descriptive analytics techniques to explore retail transact
 ## Project Structure
 
 ```
-├── e commerce project1.ipynb     # Main notebook
+├── e commerce project.ipynb     # Main notebook
 ├── Superstore.csv                # Dataset used
 ├── README.md                     # Project documentation (this file)
 ```

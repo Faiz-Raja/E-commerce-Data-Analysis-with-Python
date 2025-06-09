@@ -1,5 +1,5 @@
 # E-commerce-Data-Analysis-and-Insights-with-Python
-This project analyzes retail sales data from a sample superstore to uncover business insights using Python-based visualization and data processing. The notebook focuses on identifying key trends in sales and profit performance across various dimensions such as time, category, and customer segment.
+This project analyzes retail sales data from a superstore to uncover business insights using Python-based visualization and data processing. The notebook focuses on identifying key trends in sales and profit performance across various dimensions such as time, category, and customer segment.
 
 ## Overview:
 

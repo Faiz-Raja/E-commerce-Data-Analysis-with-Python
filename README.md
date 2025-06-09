@@ -1,6 +1,8 @@
 # E-commerce-Data-Analysis-and-Insights-with-Python
 This project analyzes retail sales data from a superstore to uncover business insights using Python-based visualization and data processing. The notebook focuses on identifying key trends in sales and profit performance across various dimensions such as time, category, and customer segment.
 
+**Note:** As GitHub is unable to show the plotly visualization please refer to the matplotlib version .ipynb notebook to get the insights through visualziation.
+
 ## Overview:
 
 This project applies descriptive analytics techniques to explore retail transactions and visualize performance metrics across time and product categories. It leverages Python’s powerful data analysis and visualization libraries to transform raw sales data into meaningful dashboards and insights.

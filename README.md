@@ -120,6 +120,8 @@ Order Date, Ship Date, Category, Sub-Category, Sales, Profit, Quantity, Region, 
 
 **Python Libraries Used:**
 
-pandas, plotly, datetime
+pandas, plotly, datetime, matplotlib, numpy
+
+**Note:** As GitHub is unable to show the plotly visualization please refer to the matplotlib version .ipynb notebook to get the insights through visualziation.
 
 ---
